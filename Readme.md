@@ -17,5 +17,7 @@ The goal of the Simple NFT Gallery is to provide an immutable, transparent, and 
 - **Retrieve NFT details** such as ID, metadata, and owner.
 - **View all NFTs** in the gallery.
 - **Check owned NFTs** by querying the owner’s collection.
+## Contract Details
+- Contract Address: 0x285692F25666eb4b22d8706e657ED4786900c8bb
+  ![image](https://github.com/user-attachments/assets/207644e1-a3d6-4195-99a2-8344cf4b6dc8)
 
-This project serves as the foundation for a more advanced NFT gallery with potential future upgrades.
